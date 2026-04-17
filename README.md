@@ -1,7 +1,7 @@
 # 04 First PR
 
 ## Goal
-Practice the real GitHub workflow: fork, clone, make one small fix, push, and open a pull request that references an issue.
+Practice the real GitHub workflow: fork, clone, make one small fix, push, and open a pull request that explains the task you completed.
 
 ## Start Here
 1. Fork this repo on GitHub.
