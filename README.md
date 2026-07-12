@@ -15,7 +15,7 @@ Practice the real GitHub workflow: fork, clone, make one small fix, push, and op
 4. Make the small change described by that issue.
 5. [Commit](https://github.com/git-guides/git-commit) it, [push](https://github.com/git-guides/git-push) it, and use GitHub's guide to [open a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
-If you are working through this lab on your own, you can stop when GitHub shows you a valid pull request preview. Only submit the pull request to another person's repo if a teacher, mentor, or project maintainer has asked you to.
+For this lab, the source of your pull request is your fork. The target is the repo you forked from. In GitHub's pull request screen, check that the base repo is the original lab repo and the head repo is your fork.
 
 ## Stretch Goals
 - Open a second PR for a different issue.
